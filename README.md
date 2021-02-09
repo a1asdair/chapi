@@ -15,7 +15,7 @@ I have organised my repositories broadly by topic. These include a ixture of pro
 - Filing history data
 
 ### Company Profiles
-Work in progress
+- https://github.com/a1asdair/chcompanyprofiles
 
 ### Insolvency
 - https://github.com/a1asdair/charityinsolvencies
