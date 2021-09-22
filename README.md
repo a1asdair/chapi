@@ -3,12 +3,12 @@
 In my research I make extensive use of the [Companies House API](https://developer.company-information.service.gov.uk/) in order to understand the characteristics of charities that are also registered as companies, in either England & Wales or Scotland. This repository collects together my repositories for using the Companies House API for research into charities. These form current research projects, and not all of these repositories are currently public. Please contact me if you have any queries about repositories marked as private. I am also keen to talk to others using Companies House data in order to study charities.
 
 ## Charities as companies
-A signiifcant number of larger UK charities are constituted as companies, usually "limited by guarantee". Where this is the case, the charities will be registered with both a charity regulator and Companies House. Companies are identified by a company number. In England & Wales the Charity Commission E&W records this company number. In Scotland, the company number is not made available by the Scottish Charity Regulator, and so we have had to build a list of Scottish charity company numbers using probabilistic matching.   
+A significant number of larger UK charities are constituted as companies, usually "limited by guarantee". Where this is the case, the charities will be registered with both a charity regulator and Companies House. Companies are identified by a company number. In England & Wales the Charity Commission E&W records this company number. In Scotland, the company number is not made available by the Scottish Charity Regulator, and so we have had to build a list of Scottish charity company numbers using probabilistic matching.   
 
 The Companies House API can be queried to extract a range of company details, either through searching by keyword or by supplying a company number. I am very grateful to [James Gardiner](https://github.com/JamesGardiner) for his Python package [chwrapper](https://github.com/JamesGardiner/chwrapper) which makes accessing the Companies House API very straightforward.
 
 ## List of repositories
-I have organised my repositories broadly by topic. These include a ixture of projects to gather data, as well as projects to analyse the data.
+I have organised my repositories broadly by topic. These include a mixture of projects to gather data, as well as projects to analyse the data.
 - Company profiles
 - Insolvency data
 - Trustee/Director data
@@ -29,7 +29,7 @@ I have organised my repositories broadly by topic. These include a ixture of pro
 ### Filing History data
 Work in progress
 
-### Repositories belomnging to others
+### Repositories belonging to others
  - https://github.com/JamesGardiner/chwrapper
  - https://github.com/clairestuart1/CompaniesHouse
 
