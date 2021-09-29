@@ -9,10 +9,15 @@ The Companies House API can be queried to extract a range of company details, ei
 
 ## List of repositories
 I have organised my repositories broadly by topic. These include a mixture of projects to gather data, as well as projects to analyse the data.
+- Charity Company Numbers
 - Company profiles
 - Insolvency data
 - Trustee/Director data
 - Filing history data
+
+### Charity Company Numbers
+All the data processing below hinges on there being a list of company numbers associated with the correct charity. This repository documents the process of producing a list of validated company numbers for charities in the UK.
+- https://github.com/a1asdair/charitycompanynumbers
 
 ### Company Profiles
 - https://github.com/a1asdair/chcompanyprofiles
